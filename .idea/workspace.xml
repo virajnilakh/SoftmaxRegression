@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ece8e8e7-024d-4312-985d-b8700671a6bb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SoftmaxRegression.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SoftmaxRegression.ipynb" afterPath="$PROJECT_DIR$/SoftmaxRegression.ipynb" />
     </list>
     <ignored path="SoftmaxRegression.iws" />
     <ignored path=".idea/workspace.xml" />
